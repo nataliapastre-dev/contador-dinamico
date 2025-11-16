@@ -1,7 +1,7 @@
 # 🔢 Contador Dinâmico
 
 <p align="center">
-  <img src="https://i.postimg.cc/yNgTRCrx/Chat-GPT-Image-16-de-nov-de-2025-10-20-16.png" width="420">
+  <img src="https://i.postimg.cc/yNgTRCrx/Chat-GPT-Image-16-de-nov-de-2025-10-20-16.png" width="300">
 </p>
 
 ---
@@ -12,7 +12,7 @@
 ---
 
 ## 🧠 Sobre o Projeto  
-O **Contador Dinâmico** é uma aplicação front-end desenvolvida com **HTML5**, **CSS3** e **JavaScript**, criada para treinar lógica de programação, manipulação do DOM e construção de interfaces mais modernas.
+O **Contador Dinâmico** é uma aplicação front-end desenvolvida com **HTML5**, **CSS3** e **JavaScript**, criada para treinar lógica de programação, manipulação do DOM e construção de interfaces modernas e interativas.
 
 O usuário informa:
 
@@ -20,12 +20,12 @@ O usuário informa:
 - Valor final  
 - Passo da contagem  
 
-E a aplicação realiza a contagem de forma **totalmente animada**, número por número, acompanhada por:
+A contagem é exibida **com animação**, acompanhada por:
 
 ✔ Barra de progresso  
 ✔ Layout moderno  
 ✔ Feedback visual  
-✔ Responsividade total  
+✔ Responsividade completa  
 
 ---
 
@@ -37,25 +37,19 @@ E a aplicação realiza a contagem de forma **totalmente animada**, número por 
 - 🔸 Barra de progresso dinâmica  
 - 🔸 Validação automática do passo  
 - 🔸 Interface responsiva  
-- 🔸 Efeito de aparecimento suave no resultado  
-
----
-
-## 🖥️ Demonstração da Interface
-
-<p align="center">
-  <img src="https://i.postimg.cc/yNgTRCrx/Chat-GPT-Image-16-de-nov-de-2025-10-20-16.png" width="420">
-</p>
+- 🔸 Efeito de aparecer suave no resultado  
 
 ---
 
 ## 🛠️ Tecnologias Utilizadas
 
 - **HTML5** — estrutura da página  
-- **CSS3** — estilo, responsividade e animações  
-- **JavaScript** — lógica da contagem e animações  
+- **CSS3** — design, responsividade e animações  
+- **JavaScript** — lógica da contagem e efeitos  
 
 ---
 
-## 📁 Estrutura do Projeto
+
+
+
 
