@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Contador Numérico</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <main class="card">
+    <h1>🔢 Contador Numérico</h1>
+
+    <form onsubmit="contar(); return false;" class="form">
+      <label for="txti">Início:</label>
+      <input type="number" id="txti" placeholder="Ex: 1" required>
+
+      <label for="txtf">Fim:</label>
+      <input type="number" id="txtf" placeholder="Ex: 10" required>
+
+      <label for="txtp">Passo:</label>
+      <input type="number" id="txtp" placeholder="Ex: 2" required>
+
+      <button type="submit">Iniciar Contagem</button>
+    </form>
+
+    <div class="progress-container">
+      <div id="progress" class="progress-bar"></div>
+    </div>
+
+    <div id="res" class="resultado">🕒 Aguardando dados...</div>
+  </main>
+
+  <footer>
+    Desenvolvido por <strong>Natália Pastre</strong> © 2025
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
